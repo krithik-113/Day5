@@ -1,0 +1,28 @@
+{
+  "firstName": "KRITHIK",
+  "lastName": "ROSHAN B",
+  "phone": "8610238159",
+  "e-mial": "krithikroshan113@gmail.com",
+  "carrerObjective": "To kick start my carrer in globally recognized organization to enhance my skills and knowledge for mutual benefits of organization",
+  "academicDetails": {
+    "course": "BCA",
+    "institution": "VLB Janakiammal college of Art's & Science",
+    "yearOfCompletion": "2021"
+  },
+  "skills": [
+    "optimistic",
+    "flexibility",
+    "balance success and failure in positive manner"
+  ],
+  "achievements": "certified in advance c programming with 70% in March 2014",
+  "leisureInterset": ["indoor games", "cooking"],
+  "personalDossier": {
+    "name": "Krithik Roshan B",
+    "dob": "11-03-2000",
+    "languagesKnown": ["english", "tamil"],
+    "address": "Muthuswamy Colony, Selvapuram, coimbatore-641 026"
+  },
+  "decleration": "I (Krithik Roshan B), hereby declare that the information furnished above is true to the best of my knowledge",
+  "date": "28-05-2024",
+  "place": "coimbatore"
+}
